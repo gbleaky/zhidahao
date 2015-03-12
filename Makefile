@@ -1,10 +1,10 @@
 # Description: Makefile
-APP_PATH="/home/work/users/wangbo09/odp/app/app/zhidahao"
-CONF_PATH="/home/work/users/wangbo09/odp/app/conf/app/zhidahao"
-WEBROOT_PATH="/home/work/users/wangbo09/odp/app/webroot/zhidahao"
-API_PATH="/home/work/users/wangbo09/odp/app/php/phplib/dpp/api/zhidahao"
-LOG_PATH = "/home/work/users/wangbo09/odp/app/log/zhidahao"
-DATA_PATH = "/home/work/users/wangbo09/odp/app/data/app/zhidahao"
+APP_PATH="/home/users/wangbo09/odp/app/zhidahao"
+CONF_PATH="/home/users/wangbo09/odp/conf/app/zhidahao"
+WEBROOT_PATH="/home/users/wangbo09/odp/webroot/zhidahao"
+API_PATH="/home/users/wangbo09/odp/php/phplib/dpp/api/zhidahao"
+LOG_PATH = "/home/users/wangbo09/odp/log/zhidahao"
+DATA_PATH = "/home/users/wangbo09/odp/data/app/zhidahao"
 DEV_PC="wangbo09@cp01-rdqa-dev138.cp01"
 APP_SRC_FILE=actions Bootstrap.php controllers library models script test
 
